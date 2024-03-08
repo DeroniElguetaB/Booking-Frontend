@@ -96,7 +96,7 @@ const Footer = () => {
                            <span><i class='ri-map-pin-line'></i></span>
                            Dirección:
                         </h6>
-                        <p className='mb-0'>VIAJES TRAVEL WORLD SA</p>
+                        <p className='mb-0'>TRAVEL WORLD SA</p>
                      </ListGroupItem>
                      <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
                         <h6 className='mb-0 d-flex align-items-center gap-2'>
