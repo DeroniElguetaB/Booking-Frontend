@@ -49,7 +49,7 @@ const Testimonials = () => {
          </div> 
       </div>
 
-      <div className="testimonial py-4 px-3">
+      {/* <div className="testimonial py-4 px-3">
          <p>Ha sido una experiencia hermosa! Rocío y Noelia nos asesorarán super bien en nuestro viaje a Miami y Orlando. Todos los vuelos y hotelería espectacular. Lo que más agradezco es la predisposición y seguimiento que nos hicieron en caso que algo no saliera como lo previsto. Muchas gracias Tokio Viajes, muy recomendables!!
          </p>
 
@@ -60,7 +60,7 @@ const Testimonials = () => {
                <p>cliente</p>
             </div>
          </div> 
-      </div>
+      </div> */}
 
       <div className="testimonial py-4 px-3">
          <p>Passeio muito agradável. Agência cumpriu horários combinados. Guia muito atencioso e simpático. Almoço muito bom. Recomendo
